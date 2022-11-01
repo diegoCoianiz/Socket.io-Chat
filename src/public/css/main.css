@@ -1,0 +1,58 @@
+/* https://uigradients.com */
+
+body {
+    background: #0F2027;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right,#2e7492, #203A43, #2e7492);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right,#2e7492, #203A43, #2e7492); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+
+.card {
+    margin: 0px 0px;
+}
+
+.card-header {
+    border-bottom: 3px solid rgba(126, 123, 123, 0.37);
+    max-height: 45px;
+}
+
+
+.error {
+    color: red;
+}
+
+.private {
+    color: gray;
+    font-style: italic;
+}
+#advert {
+    margin-top: 5px;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+#body-header {
+    border-bottom: 2px solid rgba(126, 123, 123, 0.37);
+    max-height: 50px;
+}
+
+
+#message {
+    width: 90%;
+}
+
+#send-button {
+    margin-left: 10px;
+}
+
+#title {
+    color: whitesmoke;
+}
+
+#contentWrap {
+    display: none;
+}
+
+#nickForm {
+    margin-top: -30px;
+}
